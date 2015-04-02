@@ -1,0 +1,25 @@
+{
+  "name": "growlyflash",
+  "version": "0.0.0",
+  "authors": [
+    "Anton <anton.estum@gmail.com>"
+  ],
+  "description": "The rubyless adoptation of \"growlyflash\" gem to use it outside Rails.",
+  "main": "growlyflash.js",
+  "keywords": [
+    "bootstrap",
+    "growl",
+    "growlyflash",
+    "alerts",
+    "notifications"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/estum/growlyflash.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

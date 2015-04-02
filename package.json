@@ -1,0 +1,32 @@
+{
+  "name": "growlyflash",
+  "version": "0.0.0",
+  "homepage": "https://githum.com/estum/growlyflash.js",
+  "license": "MIT",
+  "description": "The rubyless adoptation of \"growlyflash\" gem to use it outside Rails.",
+  "author": {
+    "name": "Tõnis Simo",
+    "email": "anton.estum@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/estum/growlyflash.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/estum/growlyflash.js/issues"
+  },
+  "devDependencies": {
+    "matchdep": ">=0.1.2",
+    "grunt": ">=0.4.1",
+    "grunt-contrib-concat": ">=0.3.0",
+    "grunt-contrib-coffee": ">=0.7.0",
+    "grunt-contrib-uglify": ">=0.2.4",
+    "grunt-contrib-less": ">=0.7.0",
+    "grunt-contrib-watch": ">=0.5.3",
+    "grunt-shell": ">=0.5.0",
+    "bower": ">=0"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
